@@ -5,7 +5,7 @@
 
 #define MyAppName "PnumaDesk Manager"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "Krv Developers"
+#define MyAppPublisher "Krv Softwares"
 #define MyAppExeName "pnumadesk_manager.exe"
 #define MyAppDescription "PnumaDesk Database and Connected Systems Management Console"
 #define SourceDir "build\windows\x64\runner\Release"
@@ -17,9 +17,9 @@ AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
-AppPublisherURL=https://krvdevelopers.com
+AppPublisherURL=https://krvsoftwares.com
 AppSupportURL=mailto:vishan.dias.official@gmail.com
-AppCopyright=Copyright (C) 2026 Krv Developers
+AppCopyright=Copyright (C) 2026 Krv Softwares
 VersionInfoVersion={#MyAppVersion}
 VersionInfoProductName={#MyAppName}
 VersionInfoDescription={#MyAppDescription}

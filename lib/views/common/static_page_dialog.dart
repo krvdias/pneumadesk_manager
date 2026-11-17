@@ -126,7 +126,7 @@ class StaticPageDialog extends StatelessWidget {
                 child: Icon(Icons.business_outlined, color: Color(0xFF6366F1), size: 20),
               ),
               title: Text('Development Company', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
-              subtitle: Text('Krv Developers', style: TextStyle(color: Color(0xFF94A3B8), fontSize: 12)),
+              subtitle: Text('Krv Softwares', style: TextStyle(color: Color(0xFF94A3B8), fontSize: 12)),
             ),
             SizedBox(height: 10),
             ListTile(
